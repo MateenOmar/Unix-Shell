@@ -1,0 +1,20 @@
+Shell1: As a JShell user, I want to be able to write a command with or without parameters to execute said command - 3 hours
+Shell2: As a JShell user, I want to be able to browse files and directories - 1 day
+Shell3: As a JShell user, I want to be able to read and write files - 1 day
+Echo1.1: As a JShell user, I want to be able to use echo with some text to print that text to the terminal - 4 hours
+Echo1.2: As a JShell user, I want to be able to use echo to overwrite a file that I choose, with the text - 4 hours
+Echo1.3: As a JShell user, I want to be able to use echo to create a file with the text I provide - 4 hours
+Echo2.1: As a JShell user, I want to use echo to add text to the end of the file i pick - 4 hours
+List1: As a JShell user, I can check what files and directories are in my current working directory - 2 hours
+List2: As a JShell user, I can check the contents of directories other than my current working directory, so I don't have to change directories to look at them - 2 hours
+Cat1: As a JShell user, I can quickly check the contents of files - 2 hours
+Cat2: As a JShell user, I can check the contents of multiple files at once, so I don't have to repeatedly type a command - 2 hours
+PrintWorkingDir1: As a JShell user, I can check which directory I am currently in so that I can figure out where I am in the file system - 2 hours
+Exit1: As a JShell user, I have to be able to exit the shell when I'm done using it - 1 hour
+MakeDir1: As a JShell user, I want to be able to create new directories where I want - 4 hours
+ChangeDir1: As a JShell user, I want to be able to change my directory when I give it a path relative to current directory or full path - 4 hours
+ChangeDir2:As a JShell user, I want to be able to change my directory relative to my current directory without having to provide a path - 4 hours
+Man1: As a JShell user, I want to be able to look at the documentation for all commands - 2 hours
+PushD1: As a JShell user,I want to be able to save the current working directory that I can go back to later - 3 hours
+Popd1: As a JShell user, I want to be able to go back the directory I saved before - 2 hours
+History1: As a JShell user, I want to be able to see the certain number of recent commands I used before - 1 hour

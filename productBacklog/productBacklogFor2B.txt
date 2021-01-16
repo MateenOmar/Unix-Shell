@@ -1,0 +1,16 @@
+Output1: As a Jshell user, I want to redirect the output of a command to a file
+Output2: As a Jshell user, I want to be able to add the output of a command the end of a file
+Remove1: As JShell user, I want to be able to delete a directory from the file system
+Move1: As a JShell user, I want be able to move a file to different directory
+Move2: As a JShell user, I want be able to move a directory to different directory
+Copy1: As a JShell user, I want to be able to copy a file to a different directory
+Copy2: As a JShell user, I want to be able to copy a directory to a different directory
+MakeDirectory: As a JShell user, I want to be able to make as many directories as I would like
+List: As a JShell user, I want to be able to see the directories and the subdirectories of all directories
+Curl: As a JShell user, I want be able to retrieve a file from a URL and add it to the current working directory.
+Man: As a JShell user, I want to be able to get the documentation of a command, one at a time.
+Tree1: As a Jshell user, I want to be able to see the entire fileSystem as a tree
+Search: As a JShell user, I want to be able to search for files or directories in other directories
+SaveJShell: As a Jshell user, I want to be able to save my File system so I can come back to them later
+LoadJShell1: As a Jshell user, I want to be able to load up a File system thats been saved on my computer
+LoadJShell2: As a System, I want to prevent the user from calling Load if other commands have already been executed
