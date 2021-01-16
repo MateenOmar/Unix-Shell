@@ -1,0 +1,13 @@
+Class name: FileSystem
+Parent Class: None
+Subclasses: None
+
+Responsibilities: 
+*Store current directory
+*Store root of directories
+*Edit file and directory info
+
+Collaborators:
+*File
+*Directory
+*ErrorHandler

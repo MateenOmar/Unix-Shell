@@ -1,0 +1,16 @@
+Class name: Echo
+Parent Class: Command
+Subclasses: None
+
+Responsibilities: 
+*Erase current content of file and write provided string in it
+*Create file if mentioned file does not exist
+*Append provided string to current file
+*> Overwrites the current content of the file with provided string
+*>> Appends to the file
+
+Collaborators:
+*ErrorHandler
+*FileSystem
+*MakeFile
+*Output

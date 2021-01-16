@@ -1,0 +1,11 @@
+Class name: ErrorHandler
+Parent Class: None
+Subclasses: None
+
+Responsibilities: 
+*Throw the appropriate error based on the command
+*Keep track of whether an error has occurred during execution of the current command
+
+Collaborators:
+*Output
+*Command

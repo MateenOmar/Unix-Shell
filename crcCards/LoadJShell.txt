@@ -1,0 +1,12 @@
+Class name: LoadJShell
+Parent Class: Command
+Subclasses: None
+
+Responsibilities: 
+*Get the saved file from users provided path
+*Read contents of the file
+*Replicate the filesystem exactly as it was when saved
+
+Collaborators:
+*FileSystem
+*ErrorHandler

@@ -1,0 +1,14 @@
+Class name: PrintWorkingDirectory
+Parent Class: Command
+Subclasses: None
+
+Responsibilities: 
+*Print the path to the current directory
+*Append or overwrite the output of command to a file
+*> Overwrites the current content of the file with output
+*>> Appends the output to the file
+
+Collaborators:
+*ErrorHandler
+*Output
+*FileSystem

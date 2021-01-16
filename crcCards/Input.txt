@@ -1,0 +1,13 @@
+Class name: Input
+Parent Class: None
+Subclasses: None
+
+Responsibilities: 
+*Parse the input to get useful parts of input
+*call necessary command
+
+Collaborators:
+*Command
+*ErrorHandler
+*Man
+*Echo

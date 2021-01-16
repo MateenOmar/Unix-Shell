@@ -1,0 +1,14 @@
+Class name: Man
+Parent Class: Command
+Subclasses: None
+
+Responsibilities: 
+*Print documentation of 1 or more mentioned commands
+*Print error if a mentioned command does not exist
+*Append or overwrite the output of command to a file
+*> Overwrites the current content of the file with output
+*>> Appends the output to the file
+
+Collaborators:
+*Output
+*ErrorHandler

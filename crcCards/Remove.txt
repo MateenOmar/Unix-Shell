@@ -1,0 +1,10 @@
+Class name: Remove
+Parent Class: Command
+Subclasses: None
+
+Responsibilities: 
+* Remove all references to a Directory
+
+Collaborators:
+*FileSystem
+*ErrorHandler

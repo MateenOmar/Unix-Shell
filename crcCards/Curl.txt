@@ -1,0 +1,11 @@
+Class name: Curl
+Parent Class: Command
+Subclasses: None
+
+Responsibilities: 
+*Retrieve the file at the provided URL
+*Read the contents of the file and write into a file on the filesystem
+
+Collaborators:
+*FileSystem
+*ErrorHandler

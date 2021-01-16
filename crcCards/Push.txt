@@ -1,0 +1,13 @@
+Class name: Push
+Parent Class: Command
+Subclasses: None
+
+Responsibilities: 
+*Save the current directory on top of directory stack
+*Change to the mentioned directory
+*Print error if mentioned directory does not exist
+
+Collaborators:
+*FileSystem
+*ErrorHandler
+*ChangeDirectory

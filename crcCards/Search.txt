@@ -1,0 +1,13 @@
+Class name: Search
+Parent Class: Command
+Subclasses: None
+
+Responsibilities: 
+*Check list of paths for a target file/directory
+*Append or overwrite the output of command to a file
+*> Overwrites the current content of the file with output
+*>> Appends the output to the file
+
+Collaborators:
+*FileSystem
+*ErrorHandler

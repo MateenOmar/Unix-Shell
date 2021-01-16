@@ -1,0 +1,13 @@
+Class name: MakeDirectory
+Parent Class: Command
+Subclasses: None
+
+Responsibilities: 
+*Create 1 or 2 directories relative to the current directory or may be full path
+*If first directory creates error, print error message, and do not create the secound directory
+*If first directory is created successfully, but secound directory gives error, print error message
+*Print error message if a directory of same name already exists in current directory or full path
+
+Collaborators:
+*FileSystem
+*ErrorHandler

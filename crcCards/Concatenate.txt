@@ -1,0 +1,15 @@
+Class name: Concatenate
+Parent Class: Command
+Subclasses: None
+
+Responsibilities: 
+*Print and display the text of one or more files
+*Pass error if file does not exist
+*Append or overwrite the output of command to a file
+*> Overwrites the current content of the file with output
+*>> Appends the output to the file
+
+Collaborators:
+*FileSystem
+*Output
+*ErrorHandler

@@ -1,0 +1,8 @@
+Class name: Command
+Parent Class: None
+Subclasses:Exit, MakeDirectory, ChangeDirectory, List, PrintWorkingDirectory, Push, Pop, History, Concatenate, Echo, Man
+
+Responsibilities: 
+*Calls on relevant command with relevant parameters 
+
+Collaborators:

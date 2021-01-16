@@ -1,0 +1,13 @@
+Class name: History
+Parent Class: Command
+Subclasses: None
+
+Responsibilities: 
+*Print all or a number of recent commands used by user
+*Append or overwrite the output of command to a file
+*> Overwrites the current content of the file with output
+*>> Appends the output to the file
+
+Collaborators:
+*ErrorHandler
+*Output

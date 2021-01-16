@@ -1,0 +1,11 @@
+Class name: Copy
+Parent Class: Command
+Subclasses: None
+
+Responsibilities: 
+*Copy directory or file from one location to another
+*Pass error message if source/destinations are invalid
+
+Collaborators:
+*FileSystem
+*ErrorHandler

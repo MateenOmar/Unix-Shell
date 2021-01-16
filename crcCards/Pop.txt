@@ -1,0 +1,13 @@
+Class name: Pop
+Parent Class: Command
+Subclasses: None
+
+Responsibilities: 
+*Change to the directory saved on the directory stack
+*Remove the directory from the stack
+*Print error if no directory is on directory stack
+
+Collaborators:
+*ChangeDirectory
+*FileSystem
+*ErrorHandler

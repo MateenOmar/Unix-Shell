@@ -1,0 +1,17 @@
+Class name: List
+Parent Class: Command
+Subclasses: None
+
+Responsibilities: 
+*If no paths given print the contents of current directory
+*If the path specifies file, print the path
+*If path specifies a directory, print the path, then a colon, then the contents of the directory, then an extra new line
+*Print error message if path does not exist
+*Append or overwrite the output of command to a file
+*> Overwrites the current content of the file with output
+*>> Appends the output to the file
+
+Collaborators:
+*FileSystem
+*Output
+*ErrorHandler

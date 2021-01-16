@@ -1,0 +1,11 @@
+Class name: SaveJShell
+Parent Class: Command
+Subclasses: None
+
+Responsibilities: 
+*Write current working filesystem into a .txt file
+*Save the .txt file to the path provided
+
+Collaborators:
+*FileSystem
+*ErrorHandler

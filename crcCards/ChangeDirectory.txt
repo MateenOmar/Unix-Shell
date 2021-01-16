@@ -1,0 +1,13 @@
+Class name: ChangeDirectory
+Parent Class: Command
+Subclasses: None
+
+Responsibilities: 
+*Change directory to another directory relative to the current directory or a full path
+* .. Means to change to parent directory
+* . Means to change to current directory
+*Pass error message if directory or path does not exist
+
+Collaborators:
+*FileSystem
+*ErrorHandler

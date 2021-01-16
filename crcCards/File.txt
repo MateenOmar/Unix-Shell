@@ -1,0 +1,8 @@
+Class name: File
+Parent Class: None
+Subclasses: None
+
+Responsibilities: 
+*Holds the contents of a file
+
+Collaborators:

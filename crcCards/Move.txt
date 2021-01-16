@@ -1,0 +1,13 @@
+Class name: Move
+Parent Class: Command
+Subclasses: None
+
+Responsibilities: 
+*Move directory or file from one location to another
+*Pass error message if source/destinations are invalid
+
+Collaborators:
+*FileSystem
+*ErrorHandler
+*Copy
+*Remove

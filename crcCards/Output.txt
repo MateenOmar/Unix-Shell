@@ -1,0 +1,12 @@
+Class name: Output
+Parent Class: None
+Subclasses: None
+
+Responsibilities: 
+*Print to the shell
+*Append or overwrite the output of command to a file
+*> Overwrites the current content of the file with output
+*>> Appends the output to the file
+
+Collaborators:
+*Echo

@@ -1,0 +1,11 @@
+Class name: Directory
+Parent Class: None
+Subclasses: None
+
+Responsibilities: 
+*Holds the contents of directories
+
+Collaborators:
+*Directory
+*File
+*ErrorHandler

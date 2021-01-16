@@ -1,0 +1,13 @@
+Class name: JShell
+Parent Class: None
+Subclasses: None
+
+Responsibilites: 
+*Generate input prompts
+*Take in User input
+
+Collaborators:
+*Input
+*FileSystem
+*Output
+*Exit

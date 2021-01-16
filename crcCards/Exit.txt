@@ -1,0 +1,9 @@
+Class name: Exit
+Parent Class: Command
+Subclasses: None
+
+Responsibilities: 
+*Quit and close the shell
+
+Collaborators:
+*ErrorHandler
