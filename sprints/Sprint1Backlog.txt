@@ -1,0 +1,41 @@
+Sprint 1 Backlog.
+October 21 to October 27
+
+a) Shell1: As a JShell user, I want to be able to write a command with or without parameters to execute said command - 3 hours
+b) Shell2: As a JShell user, I want to be able to browse files and directories - 1 day
+c) Shell3: As a JShell user, I want to be able to read and write files - 1 day
+d) PrintWorkingDir1: As a JShell user, I can check which directory I am currently in so that I can figure out where I am in the file system - 2 hours
+e) Exit1: As a JShell user, I have to be able to exit the shell when I'm done using it - 1 hour
+f) MakeDir1: As a JShell user, I want to be able to create new directories where I want - 4 hours
+g) ChangeDir1: As a JShell user, I want to be able to change my directory when I give it a path relative to current directory or full path - 4 hours
+h) ChangeDir2:As a JShell user, I want to be able to change my directory relative to my current directory without having to provide a path - 4 hours
+
+Specific tasks to be accomplished:
+a-1. (JShell) Make structure for command line intrpreter
+a-2. (JShell) Always prompt user for input
+b-1. (File) Create a structure for files 
+b-2. (Directory) Create a structure for directories
+b-3. (FileSystem) Create system for directories and files to interact with each other
+c-1. (File) Make it so that user can write to a file
+c-2. (Concatenate) Make it so that user can read a file
+d-1. (PrintWorkingDirectory, FileSystem) Create a way to keep track of the current path at all times
+e-1. (Exit, Shell) Stop all ongoing actions and close JShell 
+f-1. (MakeDirectory, Directory) Create and intilize a new directory
+f-2. (FileSystem, Directory) Link a newly created directory to the file system
+g-1. (ChangeDirectory, FileSystem) Create the structure for changing directories when given a full path
+g-2. (ChangeDirectory, FileSystem) Create the structure for changing directories when given path relative to the current directory
+h-1. (ChangeDirectory, FileSystem) Create the structure for changing directories relative to the current path without a given path
+
+These tasks are assigned as follows:
+
+User: Omar Bin Mateen
+Tasks: a-1, a-2, e-1, f-2
+
+User: Kevin Daniel Fernandes
+Tasks: b-1, b-2, b-3, f-1
+
+User: Jesse Yao
+Tasks: g-1, g-2, h-1
+
+User: Kazi Shafin Shafayet
+Tasks: c-1, c-2, d-1

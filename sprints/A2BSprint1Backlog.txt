@@ -1,0 +1,44 @@
+Sprint 1 Backlog.
+November 16 to November 22
+
+a)SaveJShell: As a Jshell user, I want to be able to save my File system so I can come back to them later
+b)LoadJShell1: As a Jshell user, I want to be able to load up a File system thats been saved on my computer
+c)Copy1: As a JShell user, I want to be able to copy a file to a different directory
+d)Copy2: As a JShell user, I want to be able to copy a directory to a different directory
+e)Output1: As a Jshell user, I want to redirect the output of a command to a file
+f)Output2: As a Jshell user, I want to be able to add the output of a command the end of a file
+g)Man: As a JShell user, I want to be able to get the documentation of a command, one at a time.
+h)Tree1: As a Jshell user, I want to be able to see the entire fileSystem as a tree
+i)MakeDirectory: As a JShell user, I want to be able to make as many directories as I would like
+j)Remove1: As JShell user, I want to be able to delete a directory from the file system
+
+Specific tasks to be accomplished:
+a-1) figure out how to format system into a text file
+a-2) Store FileSystem data into a text file
+b-1) figure out how to interpret a Filesystem from a text file
+b-2) rebuild File System from text file
+c-1) Recreate File with same contents
+c-2) Add recreated file to new location
+d-1) Recreate a Directory with same contents
+d-2) Add recreated Directory to new location
+e-1) Move implementation of > so all commands can use it
+f-1) Move implementation of >> so all commands can use it
+g-1) Make (man) command only accept one parameter
+h-1) Create algorithm for Pre-order Traversal
+i-1) Make (mkdir) command accept any number of directories
+j-1) Delete the directory from system
+j-2) Remove all references to directory
+ 
+These tasks are assigned as follows:
+
+User: Omar Bin Mateen
+Tasks: a-1, a-2, b-1, b-2, g-1
+
+User: Kevin Daniel Fernandes
+Tasks: j-1, j-2, h-1, i-1
+
+User: Jesse Yao
+Tasks: c-2, d-1, d-2
+
+User: Kazi Shafin Shafayet
+Tasks: e-1, f-1, c-1

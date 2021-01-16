@@ -1,0 +1,43 @@
+Sprint 1 Backlog.
+November 23 to November 30
+
+a)Move1: As a JShell user, I want be able to move a file to different directory
+b)Move2: As a JShell user, I want be able to move a directory to different directory
+c)List: As a JShell user, I want to be able to see the directories and the subdirectories of all directories
+d)Curl: As a JShell user, I want be able to retrieve a file from a URL and add it to the current working directory.
+e)Search: As a JShell user, I want to be able to search for files or directories in other directories
+f)LoadJShell2: As a System, I want to prevent the user from calling Load if other commands have already been executed
+
+FROM LAST SPRINT:
+A)SaveJShell: As a Jshell user, I want to be able to save my File system so I can come back to them later
+B)LoadJShell1: As a Jshell user, I want to be able to load up a File system thats been saved on my computer
+C)Output1: As a Jshell user, I want to redirect the output of a command to a file
+D)Output2: As a Jshell user, I want to be able to add the output of a command the end of a file
+
+Specific tasks to be accomplished:
+A-1) Store FileSystem data into a text file
+B-1) rebuild File System from text file
+C-1) Move implementation of > so all commands can use it
+D-1) Move implementation of >> so all commands can use it
+a-1) Use cp to create a copy of file and delete original file
+b-1) Use cp to create a copy of Directory and delete original Directory
+c-1) add recursive listing
+d-1) Retrieve file from target address
+d-2) Create virtual file with contents of retrieved file
+e-1) traverse paths and check for file/directory of same name
+f-1) Add check for if other commands have already been run
+z) Write JUnit test Cases for each class
+
+These tasks are assigned as follows:
+
+User: Omar Bin Mateen
+Tasks: A-1, B-1, d-1, d-2, f-1
+
+User: Kevin Daniel Fernandes
+Tasks: c-1, e-1, z
+
+User: Jesse Yao
+Tasks: a-1, b-1, z
+
+User: Kazi Shafin Shafayet
+Tasks: C-1, D-1, z

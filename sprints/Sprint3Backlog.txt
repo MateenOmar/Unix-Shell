@@ -1,0 +1,28 @@
+Sprint 3 Backlog.
+November 3rd to November 10th
+
+a) Echo1.1: As a JShell user, I want to be able to use echo with some text to print that text to the terminal - 4 hours
+b) Echo1.2: As a JShell user, I want to be able to use echo to overwrite a file that I choose, with the text - 4 hours
+c) Echo1.3: As a JShell user, I want to be able to use echo to create a file with the text I provide - 4 hours
+d) Echo2.1: As a JShell user, I want to use echo to add text to the end of the file i pick - 4 hours
+e) History1: As a JShell user, I want to be able to see the certain number of recent commands I used before - 1 hour
+
+Specific tasks:
+a-1) process input string and output it to desired location
+b-1) find file and overwrite data
+c-1) create file and add data to file
+d-1) take data fom file and new data to end
+e-1) (last p-2) print given amount of recent commands to user
+b) test for bugs
+
+User: Omar Bin Mateen
+Tasks: b
+
+User: Kevin Daniel Fernandes
+Tasks: b
+
+User: Jesse Yao
+Tasks: b, e-2
+
+User: Kazi Shafin Shafayet
+Tasks: b, a-1, b-1, c-1, d-1
